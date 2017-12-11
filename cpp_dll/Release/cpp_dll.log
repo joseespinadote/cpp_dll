@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  cpp_dll.cpp
+  dllmain.cpp
+     Creating library C:\Users\jose\Documents\devel\windows\cpp_dll\cpp_dll\Release\cpp_dll.lib and object C:\Users\jose\Documents\devel\windows\cpp_dll\cpp_dll\Release\cpp_dll.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cpp_dll.vcxproj -> C:\Users\jose\Documents\devel\windows\cpp_dll\cpp_dll\Release\cpp_dll.dll
